@@ -1,6 +1,7 @@
 The Zen of Python, by Tim Peters
 Python之禅
 作者：Tim Peters
+语言：English
 Beautiful is better than ugly.
 Explicit is better than implicit.
 Simple is better than complex.
